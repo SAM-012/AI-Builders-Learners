@@ -20,4 +20,4 @@ A simple community page to track and share AI/ML topics and resources.
 
 ---
 
-Together we learn and grow! 🤝
+Together we learn and grow!
